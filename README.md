@@ -2,7 +2,7 @@
 
 **xale** is a really minimalistic text editor.
 
-# Getting started
+## Getting started
 
 Clone repo :
 
