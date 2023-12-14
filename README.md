@@ -22,7 +22,7 @@ Then compile the C program :
 make
 ```
 
-#### To unintall
+#### To uninstall
 
 ```
 make clean
