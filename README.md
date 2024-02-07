@@ -1,3 +1,5 @@
+[![Build](https://github.com/axdelafuen/xale-c/actions/workflows/build.yml/badge.svg)](https://github.com/axdelafuen/xale-c/actions/workflows/build.yml)
+
 # xale-c
 
 **xale-c** is a really minimalistic text editor write in C.
