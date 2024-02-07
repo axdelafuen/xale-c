@@ -5,7 +5,7 @@ SRC=$(wildcard src/*.c)
 
 OBJ=$(patsubst src/%.c,src/obj/%.o,$(SRC))
 
-xale: create_dirs $(OBJ)
+all: create_dirs $(OBJ)
 	$(CC) $(OBJ) -o $@
 
 src/obj/%.o: src/%.c 
