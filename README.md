@@ -9,13 +9,13 @@ _xale is currently getting a new version in `rust` (see : [xale-rust](https://gi
 Clone repo :
 
 ```
-git clone https://github.com/axdelafuen/xale.git
+git clone https://github.com/axdelafuen/xale-c.git
 ```
 
 Go to project folder :
 
 ```
-cd xale/
+cd xale-c/
 ```
 
 Then compile the C program :
